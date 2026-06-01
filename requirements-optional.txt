@@ -1,0 +1,10 @@
+# Optional / research-stage packages.
+# Install these only when you need to reproduce the corresponding method.
+
+# TICC is mainly used for temporal stage / state segmentation rather than complete mission-profile clustering.
+# Package availability and compatibility may vary.
+# fast-ticc
+
+# Time2Feat is more suitable as an idea source for interpretable time-series feature extraction.
+# Check the target repository and license before using it as a dependency.
+# time2feat
