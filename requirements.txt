@@ -1,0 +1,22 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+openpyxl>=3.1
+tqdm>=4.66
+jupyter>=1.0
+ipykernel>=6.0
+
+# Time-series clustering
+# tslearn provides TimeSeriesKMeans with euclidean / dtw / softdtw metrics.
+tslearn>=0.6.3
+
+# aeon provides modern time-series learning algorithms.
+aeon>=0.11.0
+
+# Density-based clustering and anomaly detection.
+hdbscan>=0.8.33
+
+# DTW, DBA, and multidimensional DTW utilities.
+dtaidistance>=2.3.12
